@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-The weather app is available via this link: 
+The weather app is available via this link: https://maciekstrach01.github.io/Weather_App/  \
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
